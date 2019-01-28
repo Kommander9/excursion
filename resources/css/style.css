@@ -1,0 +1,14 @@
+html {background-color: black;}
+body {font-family: Verdana;
+      text-align: center;
+      color: white;}
+#Header1 {font-size: 50px;
+          font-weight: normal;}
+#Header2, #Header4 {font-weight: 300;
+          font-size: 42px;}
+#Header3 {font-size: 21px;
+          color: gray;}
+.links {color: aquamarine;
+        font-size: 16px;}
+#copyright {text-align: right;
+            color: gray;}
